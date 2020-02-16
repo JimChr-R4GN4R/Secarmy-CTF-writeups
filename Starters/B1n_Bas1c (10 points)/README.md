@@ -8,3 +8,6 @@ flag.txt:
 </code>
 ###########################################################
 
+This is a binary encoded text,So let's decrypt it!
+
+flag: secarmy{b1nary_is_c00l}
