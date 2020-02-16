@@ -7,8 +7,8 @@ Flag Format :- secarmy {flag}
 After some time of searching and scanning, I decided to dig the site.
 So I got in the terminal and typed <code>dig umairnehri.me TXT</code>
 And I got this:
+################################################################################
 
-<code>
 ; <<>> DiG 9.11.5-P4-5.1+b1-Debian <<>> umairnehri.me TXT
 ;; global options: +cmd
 ;; Got answer:
@@ -38,4 +38,7 @@ dns2.registrar-servers.com. 405	IN	AAAA	2610:a1:1025::200
 ;; SERVER: 192.168.2.1#53(192.168.2.1)
 ;; WHEN: Sun Feb 16 21:07:11 EST 2020
 ;; MSG SIZE  rcvd: 304
-</code>
+
+################################################################################
+
+Flag: secarmy{$pf_r3c0rd$_@1n7_b0r1ng_r1gh7?}
