@@ -21,6 +21,7 @@ This is clearly base64, so I decoded it and got this:
 100 111 117 98 108 101 97 108 103 111 114 105 116 104 109 
 </code>
 
+
 With the help of https://www.boxentriq.com/code-breaking/cipher-identifier , I found that this is decimal.So converted to text and got this:
 
 <code>
