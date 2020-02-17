@@ -83,3 +83,21 @@ secarmy{C0ngrats_y0u_mad3_it_here}
 
 But thos flag didn't work... :(
 
+After some more research and anger I found this video:
+https://www.youtube.com/watch?v=o1XBGsf0b0s
+
+which shows steghide and how you can reveal the hidden data from an image.
+
+So tried this :
+
+<code>steghide extract -sf flag.jpg</code> and did not typed a passphrase (as like he did).
+
+And I got surprised because the was created another file <code>flag.zip</code> which contained <code>flag.txt</code> !!!
+
+So tried to extract it and it had also a password -_- ...
+
+So reused https://www.lostmypass.com and got the password which is <code>123456</code> and the extracted it succesfully !!!
+
+Flag: secarmy{th4t_w4$_3asy}
+
+(I do not know if I will upload a video with this challenge,but if I will,then check my youtube channel https://www.youtube.com/channel/UCyvIA53elWGV95pIdmiGuGw)
