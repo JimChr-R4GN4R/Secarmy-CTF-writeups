@@ -32,4 +32,51 @@ So I thinked to search deeper.After some time I thinked to check for any corrupt
 
 So after some research used <code>testdisk /dev/sda</code>
 
-Then chose to proceed to <code>>Disk /dev/sda</code> and then <code>>\[Intel] Intel/PC partition</code>
+Then chose to proceed to <code>>Disk /dev/sda</code> then <code>>\[Intel] Intel/PC partition</code>
+ and then <code>>\[Analyze]</code> .
+ 
+ Then I quicked search and chose <code>P Linux</code> and pressed <code>P</code> button to show list files.
+ 
+ And the results gave me 2 files. The first was 'lost+found' and the second one 'Flag.zip' !
+ 
+ So I chose 'Flag.zip' and copied it in /dev and then moved it in /root .
+ 
+ Then I gone to forensics VM's folder (user/vmware/forensics) .
+ 
+ And there I extracted all the data this VM had by running this command:
+ 
+ <code>7z e forensics-disk1.vmdk</code>
+ 
+ Then I searched in the extracted results the name 'Flag' and found the Flag.zip !
+ 
+ Then tried to unzip it but it had a pass...
+ 
+ So I tried to use https://www.lostmypass.com and it found the password quick enough...
+ 
+ So the password was  <code>password</code> !
+ 
+ So extracted the inside which was <code>flag.jpg</code> !
+ 
+ Then tried to run it,but it could not open the file...
+ 
+ Then wanted to confirm that it was a jpg image and run  <code>file flag.jpg</code> and the result was:
+ 
+ <code>flag.jpg: data</code>
+ 
+ So I opened the file with <code>hexyl flag.jpg</code> and the first line was this:
+ 
+ <code>0e ff ff e0 00 10 4a 46 ┊ 49 46 00 01 01 00 00 01 │•×××0•JF┊IF0••00•</code>
+ 
+ Then I opened another working jpg file and the first line was this:
+  
+ <code>ff d8 ff e0 00 10 4a 46 ┊ 49 46 00 01 01 01 00 48 │××××0•JF┊IF0•••0H</code>
+ 
+ So I changed <code>0e</code> to <code>ff</code> and <code>0e</code> to <code>d8</code>
+ 
+and the final result was:
+ 
+<code>ff d8 ff e0 00 10 4a 46</code>
+
+Then I opened the repaired jpg file and got the flag!
+
+Flag: secarmy{C0ngrats_y0u_mad3_it_here}
