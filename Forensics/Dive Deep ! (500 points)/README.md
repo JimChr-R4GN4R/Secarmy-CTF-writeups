@@ -28,3 +28,6 @@ can you find the actual flag,
 
 dig in very deep!!!
 
+So I thinked to search deeper.After some time I thinked to check for any corrupt or generally recoverable files in /dev/sda.
+
+So after some research used <code>testdisk /dev/sda</code>
