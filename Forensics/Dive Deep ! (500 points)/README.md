@@ -31,3 +31,5 @@ dig in very deep!!!
 So I thinked to search deeper.After some time I thinked to check for any corrupt or generally recoverable files in /dev/sda.
 
 So after some research used <code>testdisk /dev/sda</code>
+
+Then chose to proceed to <code>>Disk /dev/sda</code> and then <code>>\[Intel] Intel/PC partition</code>
