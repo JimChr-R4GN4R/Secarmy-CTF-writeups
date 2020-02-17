@@ -7,6 +7,7 @@ Flag Format :- secarmy {flag}
 After some time of searching and scanning, I decided to dig the site.
 So I got in the terminal and typed <code>dig umairnehri.me TXT</code>
 And I got this:
+
 ################################################################################
 
 ; <<>> DiG 9.11.5-P4-5.1+b1-Debian <<>> umairnehri.me TXT
