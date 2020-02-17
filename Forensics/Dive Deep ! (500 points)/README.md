@@ -77,6 +77,9 @@ and the final result was:
  
 <code>ff d8 ff e0 00 10 4a 46</code>
 
-Then I opened the repaired jpg file and got the flag!
+Then I opened the repaired jpg file and got a flag!
 
-Flag: secarmy{C0ngrats_y0u_mad3_it_here}
+secarmy{C0ngrats_y0u_mad3_it_here}
+
+But thos flag didn't work... :(
+
