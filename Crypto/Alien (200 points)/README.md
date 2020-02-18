@@ -5,13 +5,13 @@ Flag Format : secarmy{flag}
 
 flag.txt:
 
-'&%$#"!=6;:98765.Rsrqponmlkjihgfedcba`_^]\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>Z<XW
-VUTSRQPOHl/.-,+*)('&%$#"!~}|{zyxwvutsrqponmlkjihgfedcba`_^]\[ZYXWVUTSRQPledi
-hgfed]\aZ~A@?>=<;:9876543210/.-,+*)(>C<A@?>=<543Wxwvutsrqponmlkjihgfedcba`_^
+'&%$#"!=6;:98765.Rsrqponmlkjihgfedcba\`_^]\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>Z<XW
+VUTSRQPOHl/.-,+*)('&%$#"!~}|{zyxwvutsrqponmlkjihgfedcba\`_^]\[ZYXWVUTSRQPledi
+hgfed]\aZ~A@?>=<;:9876543210/.-,+*)(>C<A@?>=<543Wxwvutsrqponmlkjihgfedcba\`_^
 ]\[ZYXWVUTSRQPONMLKJIHGFEDCBA]?[ZYXWPUNSRKoONMLK-Cg*@d'&%$#"!~}|{zyxwvutsrqp
-onmlkjihgfedcba`_^]\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876LQPONGLKJCBA@dD=a$
-#?>=<;:9870Tutsrqponmlkjihgfedcba`_^]\[ZYXWVUTSRQPONMLKJIHGFEDCBA@\UZYXWPUTS
-RQJnNGLKDh+*)('&%$#9>7<5:9810Tutsrqponmlkjihgfedcba`_^]\[ZYXWVUTSRQPONMLKJIH
+onmlkjihgfedcba\`_^]\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876LQPONGLKJCBA@dD=a$
+#?>=<;:9870Tutsrqponmlkjihgfedcba\`_^]\[ZYXWVUTSRQPONMLKJIHGFEDCBA@\UZYXWPUTS
+RQJnNGLKDh+*)('&%$#9>7<5:9810Tutsrqponmlkjihgfedcba\`_^]\[ZYXWVUTSRQPONMLKJIH
 GFEDCBA@?>Z<RQVUTMRKPOHl/.-,+*)('&%$#"!~}|{zyxwvutsrqp.-,+*)('&%e#c@?,
 
 
@@ -19,7 +19,7 @@ I had no idea what this is :'(
 
 After some hours I tried to search on duckduckgo this:
 
-'&%$#"!=6;:98765.Rsrqponmlkjihgfedcba`_^]
+'&%$#"!=6;:98765.Rsrqponmlkjihgfedcba\`_^]
 
 And the only link it gave me was this one:
 
