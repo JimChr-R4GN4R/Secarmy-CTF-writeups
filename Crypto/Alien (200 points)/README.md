@@ -3,8 +3,6 @@ Flag Format : secarmy{flag}
 
 ###############################
 
-flag.txt:
-
 I had no idea what this is :'(
 
 After some hours I tried to search on duckduckgo this:
