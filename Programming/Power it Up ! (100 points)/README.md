@@ -7,7 +7,7 @@ challenge.txt:
 
 <code>
 $a = "Null"
-  
+  </code>
 $b = "0x00"
 
 $c = "0x00" -in $a
