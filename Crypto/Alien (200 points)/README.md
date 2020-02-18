@@ -1,6 +1,8 @@
 Aliens on the way ..
 Flag Format : secarmy{flag}
 
+I uploaded in the folder the flag.txt
+
 ###############################
 
 I had no idea what this is :'(
