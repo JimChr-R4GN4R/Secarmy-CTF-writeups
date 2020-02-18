@@ -30,4 +30,10 @@ Found that this text is called 'Malbolge' and if I understood correctly is like 
 
 So tried to use this compiler: http://malbolge.doleczek.pl/
 
-But gave syntax error....
+But gave <code>Invalid syntax!!</code> ....
+
+After hours I found that this was the flag -_- ...
+
+This challenge's lesson... Try all the outputs even if they say 'false','Invalid syntax' etc.
+
+Flag: secarmy{Invalid syntax!!}
