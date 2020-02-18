@@ -7,11 +7,17 @@ challenge.txt:
 
 <code>
 $a = "Null"
+  
 $b = "0x00"
+
 $c = "0x00" -in $a
+
 $d = "null" -ge $b
+
 $e = ($d -eq $c) -or ($a -eq $b)
+
 $f = ($d -eq $c) -xor ($a -eq $b)
+
 if(($d -eq $c) -or ($a -eq $b)) {$e} else {$f}
 </code>
 
