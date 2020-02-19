@@ -30,3 +30,11 @@ So searched for others and found this line:
 So copied that: secarmy{w3_actUalLy
 
 and tried to find the other half.
+
+Searched '}\\n' (because the first flag we found is ending with }\\n) and found this:
+
+"text": "Video: @thehackingsage \\nLines: @_navneetmuffin_ \\n<code>_n0t_1337s}</code>\\n#hacker
+
+So copied <code>_n0t_1337s}</code> and finally we got the flag!
+
+Flag: secarmy{w3_actUalLy_n0t_1337s}
