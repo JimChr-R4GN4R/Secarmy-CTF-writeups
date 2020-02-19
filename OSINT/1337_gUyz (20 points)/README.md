@@ -23,4 +23,4 @@ But this wasn't the flag...
 
 So searched for others and found this line:
 
-"text": "‪ ‪How we ranked 4th in SHELL-CTF 0x01 (Writeup)‬ Link: link.medium.com/eIXJPf1LfU‬\\n\\nsecarmy{w3_actUalLy\\n\\n#shell #ctf #hackers #cybersecurity #mrrobot #challenges #winner #wearesecarmy"
+"text": "‪ ‪How we ranked 4th in SHELL-CTF 0x01 (Writeup)‬ Link: link.medium.com/eIXJPf1LfU‬\\n\\n<code>secarmy{w3_actUalLy</code>\\n\\n#shell #ctf #hackers #cybersecurity #mrrobot #challenges #winner #wearesecarmy"
