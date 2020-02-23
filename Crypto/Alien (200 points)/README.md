@@ -17,7 +17,7 @@ https://st98.github.io/diary/posts/2019-07-14-innoctf.html
 
 This is really nice...At the bottom of the page it had a solution about a similar challenge!
 
-Found that this text is called 'Malbolge' and if I understood correctly is like a program language which can be readed by Malbolge compilers..
+Found that this text is called 'Malbolge' and if I understood correctly is a program language which can be readed by Malbolge compilers..
 
 So tried to use this compiler: http://malbolge.doleczek.pl/
 
